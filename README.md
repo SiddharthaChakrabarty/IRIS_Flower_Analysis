@@ -21,7 +21,7 @@ Getting Started :-
 
 To get started with this project, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/SiddharthaChakrabarty/iris-flower-analysis.git.
+Clone this repository to your local machine using git clone https://github.com/SiddharthaChakrabarty/IRIS_Flower_Analysis.git.
 
 Set up your Python environment and install the required dependencies. You can use virtual environments or package managers like pip or conda.
 
