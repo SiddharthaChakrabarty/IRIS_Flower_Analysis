@@ -29,7 +29,7 @@ Open the Jupyter notebooks or run the Python scripts sequentially to go through 
 
 Feel free to modify and experiment with the code to explore additional analyses or try out different machine learning algorithms.
 
-Dependencies
+Dependencies :-
 
 The following dependencies are required to run the code in this repository:
 
